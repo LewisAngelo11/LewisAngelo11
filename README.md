@@ -13,7 +13,7 @@ Frontend Developer • React & React Native • Estudiante de Ingeniería en Sof
 
 ## 🚀 Sobre mí
 
-<img align="right" width="350"
+<img align="right" width="360"
 src="https://media1.tenor.com/m/z-rwcUNIERYAAAAC/lofi.gif">
 
 - 🎓 Estudiante de Ingeniería en Software.
@@ -22,6 +22,7 @@ src="https://media1.tenor.com/m/z-rwcUNIERYAAAAC/lofi.gif">
 - 🏗️ Interesado en arquitectura de software, UX/UI y desarrollo full stack.
 - 🌱 Aprendiendo constantemente nuevas tecnologías y mejores prácticas de desarrollo.
 - 🇲🇽 México.
+  
 - ☕️
 
 
