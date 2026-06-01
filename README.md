@@ -22,7 +22,7 @@ src="https://media1.tenor.com/m/z-rwcUNIERYAAAAC/lofi.gif">
 - 🏗️ Interesado en arquitectura de software, UX/UI y desarrollo full stack.
 - 🌱 Aprendiendo constantemente nuevas tecnologías y mejores prácticas de desarrollo.
 - 🇲🇽 México.
-
+- ☕️
 
 
 ---
