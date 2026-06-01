@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 🫡 Soy Luis Ángel Soto Gálvez</h1>
+<h1 align="center">¡Hola! 🫡 Soy Luis Angel Soto Gálvez</h1>
 
 <h3 align="center">
 Frontend Developer • React & React Native • Estudiante de Ingeniería en Software
@@ -22,6 +22,8 @@ src="https://media1.tenor.com/m/z-rwcUNIERYAAAAC/lofi.gif">
 - 🏗️ Interesado en arquitectura de software, UX/UI y desarrollo full stack.
 - 🌱 Aprendiendo constantemente nuevas tecnologías y mejores prácticas de desarrollo.
 - 🇲🇽 México.
+
+
 
 ---
 
